@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Explorer with LanceDB, Actions and Docs updates (#7487)
