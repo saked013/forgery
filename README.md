@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+fix predict with class filter
