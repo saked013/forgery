@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
