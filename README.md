@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
