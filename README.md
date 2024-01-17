@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+OpenVino 2024.0.0 (#8726)
