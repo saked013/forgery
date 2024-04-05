@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Add visuals in guides/distance-calculation.md (#7876)
