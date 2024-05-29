@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Cleanup Docs languages (#7865)
