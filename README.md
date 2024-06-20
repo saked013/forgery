@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Compress docs images (#8124)
