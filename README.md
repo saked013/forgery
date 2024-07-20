@@ -1,1 +1,1 @@
-Add https://youtu.be/q7LwPoM7tSQ to guides/yolo-performance-metrics.md (#8114)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
