@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Add type hinting to explorer.py (#7388)
