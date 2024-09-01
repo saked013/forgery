@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Retry once for Docker CI failures (#8164)
