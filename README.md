@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Explorer with LanceDB, Actions and Docs updates (#7487)
