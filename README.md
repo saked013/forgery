@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Update OpenVINO INT8 export (#7515)
