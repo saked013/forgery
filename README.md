@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
