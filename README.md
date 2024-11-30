@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+YAML reformat (#7669)
